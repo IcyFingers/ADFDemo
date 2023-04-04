@@ -14,9 +14,10 @@
 				"fileSystem": "fsadlsg2dp203"
 			},
 			"columnDelimiter": ",",
-			"escapeChar": "\\",
+			"rowDelimiter": "\r\n",
+			"escapeChar": "",
 			"firstRowAsHeader": true,
-			"quoteChar": "\""
+			"quoteChar": ""
 		},
 		"schema": [
 			{
