@@ -17,7 +17,7 @@
 			"rowDelimiter": "\r\n",
 			"escapeChar": "",
 			"firstRowAsHeader": true,
-			"quoteChar": ""
+			"quoteChar": "\""
 		},
 		"schema": [
 			{
